@@ -23,7 +23,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Maximum forgiveness, complete set included, excellent customer reviews, available everywhere, durable construction</p>
       <p><strong>Cons:</strong> Heavier than some competitor clubs, less exciting aesthetics than premium brands</p>
 
-      <p><a href="https://amazon.com/dp/B0CVHMXF9G?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0CVHMXF9G?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Callaway Strata - Best for Building Skills</h2>
 
@@ -38,7 +38,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Better quality than ultra-beginner clubs, good balance of forgiveness and feedback, Callaway backing, grows with your skills</p>
       <p><strong>Cons:</strong> Slightly less forgiving than SGI sets, sand wedge not included</p>
 
-      <p><a href="https://amazon.com/dp/B0B9XQBQWG?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0B9XQBQWG?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Top Flite XL - Best Budget Pick</h2>
 
@@ -53,7 +53,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Lowest price point, still genuinely forgiving, complete set, reliable brand, good for testing commitment</p>
       <p><strong>Cons:</strong> Less premium feel than Strata or SGI, fewer customization options</p>
 
-      <p><a href="https://amazon.com/dp/B0BLVP8FQD?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0BLVP8FQD?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>What You Actually Need to Know</h2>
 
@@ -93,7 +93,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Beautiful touchscreen display, excellent battery life, works as a real smartwatch, massive course database, Bluetooth connectivity, premium build</p>
       <p><strong>Cons:</strong> No autofocus feature, no scoring to watch face</p>
 
-      <p><a href="https://amazon.com/dp/B0C2YSRK2L?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0C2YSRK2L?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>GolfBuddy Aim W12 - Best Value Specialist</h2>
 
@@ -110,7 +110,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Purpose-built for golf, excellent hazard detection, great scoring features, lightweight, fantastic course database, affordable</p>
       <p><strong>Cons:</strong> Looks more like a sports watch than a smartwatch, limited non-golf features</p>
 
-      <p><a href="https://amazon.com/dp/B0BLKBP8BJ?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0BLKBP8BJ?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Bushnell Neo Ion 2 - Best for No-Frills Golfers</h2>
 
@@ -127,7 +127,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Cheapest option, extremely simple to use, tough and durable, excellent battery life, accurate distance</p>
       <p><strong>Cons:</strong> No touchscreen, limited features, looks very sporty, no scoring system</p>
 
-      <p><a href="https://amazon.com/dp/B0BHPRXQJL?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0BHPRXQJL?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Do You Actually Need a GPS Watch?</h2>
 
@@ -252,7 +252,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Incredible value, quality construction, durable, consistent performance, reliable brand</p>
       <p><strong>Cons:</strong> Requires Costco membership, limited availability for non-members</p>
 
-      <p><a href="https://amazon.com/dp/B0BJ8WKXJP?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0BJ8WKXJP?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Callaway Supersoft - Best All-Around Performance</h2>
 
@@ -267,7 +267,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Great all-around ball, legitimately good performance, widely available, reasonable price, forgiving on off-center hits</p>
       <p><strong>Cons:</strong> Not as cheap as Kirkland, slightly softer feel than some prefer</p>
 
-      <p><a href="https://amazon.com/dp/B0C22TLVQB?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0C22TLVQB?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Srixon Soft Feel - Best for Feel and Consistency</h2>
 
@@ -282,7 +282,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Excellent feel, soft compression, good performance, legitimate mid-range option, Srixon quality</p>
       <p><strong>Cons:</strong> Slightly more expensive than Kirkland/Supersoft, less widely available in some areas</p>
 
-      <p><a href="https://amazon.com/dp/B0D4H29QBT?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0D4H29QBT?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>Vice Drive - Best for Style Conscious Golfers</h2>
 
@@ -295,7 +295,7 @@ export const articlesData = {
       <p><strong>Pros:</strong> Great design options, good quality, excellent online price, innovative brand</p>
       <p><strong>Cons:</strong> Shipping costs make small orders expensive, no local availability</p>
 
-      <p><a href="https://amazon.com/dp/B0D8XQVZ9X?tag=golfsmarter-20">Check current price on Amazon</a></p>
+      <p><a href="https://amazon.com/dp/B0D8XQVZ9X?tag=golfsmarter20-20">Check current price on Amazon</a></p>
 
       <h2>What Actually Matters in a Golf Ball</h2>
 
