@@ -19,13 +19,13 @@ const articles = [
     slug: 'start-golf-on-budget',
     title: 'How to Start Playing Golf on a Budget',
     description: 'Everything you need to know about getting started in golf without spending a fortune.',
-    image: 'https://images.unsplash.com/photo-1632931612668-118a59a40bfb?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?w=500&h=300&fit=crop',
   },
   {
     slug: 'best-budget-golf-balls',
     title: 'Best Budget Golf Balls That Actually Perform',
     description: 'Find quality golf balls at affordable prices that deliver real performance.',
-    image: 'https://images.unsplash.com/photo-1514120237764-85e53aadbb4e?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1595429035839-c99c298ffdde?w=500&h=300&fit=crop',
   },
   {
     slug: 'taylormade-vs-callaway',
