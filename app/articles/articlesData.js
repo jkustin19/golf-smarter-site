@@ -148,7 +148,7 @@ export const articlesData = {
   'start-golf-on-budget': {
     title: 'How to Start Playing Golf on a Budget',
     slug: 'start-golf-on-budget',
-    image: 'https://images.unsplash.com/photo-1632931612668-118a59a40bfb?w=1200&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?w=1200&h=600&fit=crop',
     content: `
       <h2>Playing Golf Doesn't Have to Be Expensive</h2>
 
@@ -231,7 +231,7 @@ export const articlesData = {
   'best-budget-golf-balls': {
     title: 'Best Budget Golf Balls That Actually Perform',
     slug: 'best-budget-golf-balls',
-    image: 'https://images.unsplash.com/photo-1514120237764-85e53aadbb4e?w=1200&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1595429035839-c99c298ffdde?w=1200&h=600&fit=crop',
     content: `
       <h2>The Truth About Budget Golf Balls</h2>
 
