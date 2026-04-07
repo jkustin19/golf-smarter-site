@@ -10,7 +10,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const article = articlesData[params.slug];
+  const { slug } = await params;
+  const article = articlesData[slug];
   if (!article) {
     return {
       title: 'Article Not Found',
@@ -22,8 +23,9 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function Article({ params }) {
-  const article = articlesData[params.slug];
+export default async function Article({ params }) {
+  const { slug } = await params;
+  const article = articlesData[slug];
 
   if (!article) {
     return (
